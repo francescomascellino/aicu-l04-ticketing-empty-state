@@ -1,7 +1,7 @@
 # Piano Breve
 
 Task:
-Quando non ci sono ticket aperti, la pagina deve mostrare un empty state semplice: un messaggio chiaro che spiega che non ci sono ticket da visualizzare.
+Quando non ci sono ticket aperti, la pagina deve mostrare un empty state semplice: un messaggio chiaro che spiega che non ci sono ticket da visualizzare. Il messaggio deve essere un testo semplice senza card o decorazioni, deve apparire al centro della griglia vuota. il badge del conteggio deve restare visibile. riutilizza la classe CSS .state-message
 
 Contesto:
 Stiamo lavorando su un esercizio riguardante una piattaforma di ticketing a scopo didattico.
